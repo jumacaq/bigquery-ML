@@ -35,6 +35,7 @@ Se crea una tabla en BigQuery para almacenar las predicciones diarias del modelo
 - Frecuencia de visitas.
 - Valor total de las transacciones.
 - Probabilidad de predicción de compra.
+- Accede al Dahboard aquí: https://lookerstudio.google.com/reporting/84e7eb54-8baa-4003-99dd-9715ce279c9f
 
 ---
 
