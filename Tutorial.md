@@ -1,4 +1,3 @@
-```markdown
 # Tutorial: Desarrollo del Proyecto BigQuery Model with Looker 🛒📊
 
 Este tutorial te guiará paso a paso para desarrollar el proyecto de **BigQuery Model with Looker**, donde trabajaremos con datos públicos de Google Analytics para crear un modelo predictivo de compras y visualizar los resultados en Looker.
@@ -184,4 +183,3 @@ Conecta Looker a la tabla de predicciones y crea un dashboard para visualizar la
 ## 🎉 ¡Felicidades!
 
 Has completado el proyecto **BigQuery Model with Looker**. Ahora tienes un modelo predictivo de compras y un dashboard en Looker para visualizar los resultados. ¡Sigue explorando y mejorando el modelo! 🚀
-```
