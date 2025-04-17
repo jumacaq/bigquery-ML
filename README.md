@@ -30,22 +30,36 @@ Several queries are run to analyze the data, including:
 Two **logistic regression** models are created using **BigQuery ML**:
 - **First Model**: A basic model that predicts the likelihood of a user making a transaction.
 - **Second Model (Enhanced)**: An improved model that includes basic feature engineering and adjustments to enhance assessment metrics, as a result I obtained this outcome with training data:
+  
 Threshold : 0.500
+
 Precision : 0.824
+
 Recall    : 0.621
+
 Accuracy  : 0.943
+
 F1-Score  : 0.708
+
 Log-loss  : 0.147
+
 ROC-AUC   : 0.978
 
 Finally a **random forest** model was created to achieve a better result:
 - **Third Model (Advanced)**: A more advanced model that includes advanced techniques of feature engineering, and data balancing, which obtained even better results than the above model with training data:
+  
 Threshold : 0.500
+
 Precision : 0.841
+
 Recall    : 0.938
+
 Accuracy  : 0.951
+
 F1-Score  : 0.887
+
 Log-loss  : 0.209
+
 ROC-AUC   : 0.987
 
 Both models are evaluated using metrics such as the **confusion matrix** and other evaluation metrics provided by BigQuery ML.
