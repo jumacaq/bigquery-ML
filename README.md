@@ -94,8 +94,8 @@ A table is created in BigQuery to store the model's daily predictions. This tabl
 ## 5. 🛠️ How to use this repository
 
 1. **Clone the repository**:
-   ```bash
-   git clone (https://github.com/BootcampXperience/DS_BigQuery_Looker.git)
+   ```]bash
+   git clone (https://github.com/jumacaq/bigquery-ML.git)
 
 2. 🛠️ **Prerequisites**
 
