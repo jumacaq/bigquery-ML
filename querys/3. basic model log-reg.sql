@@ -37,8 +37,3 @@ FROM ML.CONFUSION_MATRIX(MODEL `bqml_gaSessions.primer_model`, (SELECT * FROM TE
 SELECT   *
 FROM   ml.EVALUATE(MODEL `bqml_gaSessions.primer_model`, (SELECT * FROM TEST_DATA));
 
---Creando 2do Modelo
---Es vuestro turno, ¿seran capaces de mejorar este modelo usando BigQuery?
-
---Modelo utilizando Random Forest
---Es vuestro turno, ¿seran capaces de construir el modelo usando Random Forest y BigQuery?

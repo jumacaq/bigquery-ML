@@ -96,4 +96,3 @@ SELECT
   predicted_probability AS predictedProbability,
   CURRENT_DATE() AS predictionDate
 FROM predictions;
---Es vuestro turno, ¿podran construir la consulta BigQuery para llenar los atributos de la tabla para el modelo avanzado?
