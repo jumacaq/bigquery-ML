@@ -86,7 +86,7 @@ A table is created in BigQuery to store the model's daily predictions. This tabl
 - evening_visit,
 - avg_time_pageview
 - Access to [Dashboard 1](https://lookerstudio.google.com/reporting/cf58aef6-4ac7-4e92-a95b-535a2d26214d)
-            [Dashboard 2](https://lookerstudio.google.com/reporting/4cf176e5-dc9a-4d69-805b-6abb0f40298b)
+            [Dashboard 2]((https://lookerstudio.google.com/reporting/de8628c4-8b9f-4291-a5c4-40924ae21044))
 
 
 ---
